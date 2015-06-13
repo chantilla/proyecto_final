@@ -1,0 +1,18 @@
+-Clave: chanta
+-Usuario: rene
+
+-Url TSE:http://localhost/htdocs/proyecto%20chanta%20revisado/proyecto1234/
+
+-Url votante:http://localhost/htdocs/proyecto%20chanta%20revisado/proyecto1234/papeleta3/apertura.php
+
+
+-Sistema index.php
+
+             VOTANTE.
+-n. Dui:00000000-4
+
+-Nombre:Raquel Erika
+
+-Apellido:Coto leiva
+
+
